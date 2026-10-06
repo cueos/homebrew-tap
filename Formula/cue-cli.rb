@@ -1,5 +1,5 @@
 class CueCli < Formula
-  desc "AI agent and tools for Cue OS in your terminal"
+  desc "Cue CLI, the terminal product for Cue OS"
   homepage "https://cueos.ai"
   url "https://cueosai.sfo3.digitaloceanspaces.com/cue-cli/beta/2026.9.28.tgz"
   sha256 "36055b9834eb81564e9393962fb865d566528c0de0fa29598eac3b9b0d4058fa"
