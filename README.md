@@ -1,6 +1,6 @@
 # Cue OS Homebrew tap
 
-Install [Cue CLI](https://cueos.ai), the terminal agent and tools for Cue OS:
+Install [Cue CLI](https://cueos.ai), the terminal product for Cue OS:
 
 ```sh
 brew install cueos/tap/cue-cli
