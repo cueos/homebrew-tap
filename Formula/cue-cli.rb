@@ -1,8 +1,8 @@
 class CueCli < Formula
-  desc "Cue CLI, the terminal product for Cue OS"
+  desc "Terminal product for Cue OS"
   homepage "https://cueos.ai"
-  url "https://cueosai.sfo3.digitaloceanspaces.com/cue-cli/beta/2026.9.28.tgz"
-  sha256 "36055b9834eb81564e9393962fb865d566528c0de0fa29598eac3b9b0d4058fa"
+  url "https://cueosai.sfo3.digitaloceanspaces.com/cue-cli/beta/2026.10.6-7.tgz"
+  sha256 "b4e373d333592ec3563c8fc6294c2fb863cd1b9c659a0a05d15f90a9ecee77dd"
 
   depends_on arch: :arm64
   depends_on :macos
